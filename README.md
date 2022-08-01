@@ -1,7 +1,7 @@
 ## DDA2022
 ### Distributed Data Analytics
 
-_._
+_Distributed Data Analytics Solution. Mansoor Nabawi._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
